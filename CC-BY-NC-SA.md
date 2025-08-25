@@ -1,6 +1,8 @@
-The share-alike portion of this license further refers to the code itself, that must be shared (eg. in a similar fashion to how the GPL works).
+The share-alike portion of this license further refers to the code itself, that must be shared (eg. in a similar fashion to how the GPL works).  
 
-Projects that I license under this, will often come with a "license" you can purchase, to use the program. This does not grant you any additional permissions, remove any constraints, etc. functionally you have the same ability as  before
+I will often use the term purchase rather than donation to imply an exchange of value, accounting for the value you have received from the program, however it logically works the same as the word donation. I prefer purchase as it reinforces that value exchange idea, and sets an expectation to contribute however you will if you are able to do so and like the program.
+
+Projects that I license under this, will often come with a "license" you can purchase, to use the program. If it does not, then feel free to stop reading as they will either have it at the start or never (there is no bait and switch). This does not grant you any additional permissions, remove any constraints, etc. functionally you have the same ability as  before
 However, the period before can be considered a "trial" period, wherein it lasts forever, and has full functionality, and hence by purchasing the "license" you can now use the program after finding you like it.
 
 If this does seem like a round-about way to describe the word "donation", it is effectively the same, however the word donation implies that the donation is done out of good will, and not an exchange of value. Hence, I instead use the word "license", and establish a set cost, to clearly delineate that this is an exchange of value, and is expected if you use the program.
