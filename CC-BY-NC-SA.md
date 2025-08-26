@@ -1,4 +1,4 @@
-This is the interpretation of the Attribution-NonCommercial-ShareAlike 4.0 International license I use in my project, to clarify aspects of it of how it is applied in my projects since it is (intentionally) ambiguous at times.
+This is the interpretation of the [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license I use in my project, to clarify aspects of it of how it is applied in my projects since it is (intentionally) ambiguous at times.
 
 The share-alike portion of this license further refers to the code itself, that must be shared (eg. in a similar fashion to how the GPL works). Access cannot be restricted to such, it must be publicly available.
 
